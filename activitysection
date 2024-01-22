@@ -1,0 +1,100 @@
+<table aza-block-container="" aza-activity-table-wrapper="" class="aza-email-table-wrapper aza-activity-table-wrapper">
+  <tbody aza-activity-table-body-wrapper="" class="aza-email-table-body-wrapper aza-activity-table-body-wrapper">
+    <tr class="aza-email-table-common aza-activity-table-common">
+      <td align="center" class="aza-section aza-theme aza-email-table-common aza-activity-table-common aza-email-table-background-1 aza-activity-table-background-1">
+        <table class="aza-email-table-common aza-activity-table-common">
+          <tbody class="aza-email-table-common aza-activity-table-common">
+            <tr class="aza-email-table-common aza-activity-table-common">
+              <td align="center" class="aza-section-content aza-section-colors aza-email-table-common zza-activity-table-common aza-email-table-table-wrapper-td aza-activity-table-table-wrapper-td">
+                <table class="aza-email-table aza-activity-table aza-email-table-no-border aza-activity-table-no-border">
+                  <thead class="aza-email-table-head aza-activity-table-head">
+                    <tr class="aza-email-table-head-row aza-activity-table-head-row">
+                      <th data-azavista-translatable="TRANSLATION_KEY_65ab018e5bdce7cc9ac6bfd1" class="aza-email-table-header-row-cell aza-activity-table-header-row-cell">
+                        <div>Name
+                        </div>
+                      </th>
+                      <th data-azavista-translatable="TRANSLATION_KEY_65ab018e5bdce7cc9ac6bfd2" class="aza-email-table-header-row-cell aza-activity-table-header-row-cell">
+                        <div>Start
+                        </div>
+                      </th>
+                      <th data-azavista-translatable="TRANSLATION_KEY_65ab018e5bdce7cc9ac6bfd3" class="aza-email-table-header-row-cell aza-activity-table-header-row-cell">
+                        <div>End
+                        </div>
+                      </th>
+                      <th data-azavista-translatable="TRANSLATION_KEY_65ab018e5bdce7cc9ac6bfd4" class="aza-email-table-header-row-cell aza-activity-table-header-row-cell">
+                        <div>Description
+                        </div>
+                      </th>
+                      <th data-azavista-translatable="TRANSLATION_KEY_65ab018e5bdce7cc9ac6bfd5" class="aza-email-table-header-row-cell aza-activity-table-header-row-cell">
+                        <div>Room
+                        </div>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody aza-activity-list-mock-to-replace="" class="aza-email-table-body aza-activity-table-body">
+                    <tr class="aza-email-table-row aza-activity-table-activity-row">
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          Workshop
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          01-03-2023 13:00:00
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          05-03-2023 13:00:00
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          Masterclass script writing
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          L1.087
+                        </div>
+                      </td>
+                    </tr>
+                    <tr class="aza-email-table-row aza-activity-table-activity-row">
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          Q &amp; A
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          01-07-2023 17:00:00
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          01-07-2023 18:00:00
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          Questions and answers
+                        </div>
+                      </td>
+                      <td class="aza-email-table-row-cell aza-activity-table-activity-cell">
+                        <div class="aza-cell">
+                          L1.088
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<style>
+</style>
