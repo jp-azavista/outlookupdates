@@ -1,4 +1,4 @@
-<table aza-block-container="" aza-activity-table-wrapper="" class="aza-email-table-wrapper aza-activity-table-wrapper">
+<table align="center" width="100%" style="width:100%;text-align: center;" aza-block-container="" aza-activity-table-wrapper="" class="aza-email-table-wrapper aza-activity-table-wrapper">
   <tbody aza-activity-table-body-wrapper="" class="aza-email-table-body-wrapper aza-activity-table-body-wrapper">
     <tr class="aza-email-table-common aza-activity-table-common">
       <td align="center" class="aza-section aza-theme aza-email-table-common aza-activity-table-common aza-email-table-background-1 aza-activity-table-background-1">
