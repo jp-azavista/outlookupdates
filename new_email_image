@@ -1,4 +1,4 @@
-<table aza-block-container="" border="0" cellpadding="20" cellspacing="0" width="100%" align="center" aza-alternate="sectiontype-1" class="sectiontype-1">
+<table aza-block-container="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" aza-alternate="sectiontype-1" class="sectiontype-1">
   <!-- One Image start -->
   <tbody>
     <tr>
@@ -20,7 +20,7 @@ width="600" data-gjs-copyable="false"
 <td
 align="center"
 valign="top"
-width="600" data-gjs-copyable="false"
+width="540" data-gjs-copyable="false"
 >
 <![endif]-->
                 <div class="aza-image-wrapper aza-gallery-image">
@@ -41,7 +41,7 @@ width="600" data-gjs-copyable="false"
   </tbody>
   <!-- One Image end -->
 </table>
-<table aza-block-container="" border="0" cellpadding="20" cellspacing="0" width="100%" align="center" aza-alternate="sectiontype-1" class="sectiontype-1">
+<table aza-block-container="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" aza-alternate="sectiontype-1" class="sectiontype-1">
   <!-- One Image start -->
   <tbody>
     <tr>
@@ -56,14 +56,14 @@ align="center"
 border="0"
 cellspacing="0"
 cellpadding="0"
-width="600" data-gjs-copyable="false"
+width="540" data-gjs-copyable="false"
 >
 <tbody data-gjs-copyable="false">
 <tr data-gjs-copyable="false">
 <td
 align="center"
 valign="top"
-width="600" data-gjs-copyable="false"
+width="540" data-gjs-copyable="false"
 >
 <![endif]-->
                 <div class="aza-image-wrapper aza-gallery-image">
@@ -84,7 +84,7 @@ width="600" data-gjs-copyable="false"
   </tbody>
   <!-- One Image end -->
 </table>
-<table aza-block-container="" border="0" cellpadding="20" cellspacing="0" width="100%" align="center" aza-alternate="sectiontype-1" class="sectiontype-1">
+<table aza-block-container="" border="0" cellpadding="0" cellspacing="0" width="100%" align="center" aza-alternate="sectiontype-1" class="sectiontype-1">
   <!-- One Image start -->
   <tbody>
     <tr>
@@ -99,14 +99,14 @@ align="center"
 border="0"
 cellspacing="0"
 cellpadding="0"
-width="600" data-gjs-copyable="false"
+width="540" data-gjs-copyable="false"
 >
 <tbody data-gjs-copyable="false">
 <tr data-gjs-copyable="false">
 <td
 align="center"
 valign="top"
-width="600" data-gjs-copyable="false"
+width="540" data-gjs-copyable="false"
 >
 <![endif]-->
                 <div class="aza-image-wrapper aza-gallery-image">
