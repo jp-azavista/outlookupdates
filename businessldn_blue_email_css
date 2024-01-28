@@ -139,7 +139,7 @@ color: #074082;;
 
   .aza-section-content {
     padding: 15px 30px;
-    max-width: 600px;
+    max-width: 540px;
   }
 
   .aza-header-content,
@@ -173,7 +173,7 @@ color: #074082;;
 
   .aza-header-content {
     padding: 0;
-    min-width: 600px;
+    min-width: 540px;
     background-image: url('/asset/61781fb6a804ef001181d9aa/invite-header.jpg');
     height: 240px;
     background-position: 100% 100%;
@@ -197,7 +197,7 @@ color: #074082;;
 }
 
   .aza-header-content .aza-cell {
-    width: 600px
+    width: 540px
   }
 
   .aza-header-content .aza-cell-last {
@@ -209,12 +209,12 @@ color: #074082;;
   .sectiontype-1 .aza-header .aza-header-content {
     padding-left: 0;
     padding-right: 0;
-    min-width: 600px;
+    min-width: 540px;
 
   }
 
   .sectiontype-1 .aza-header .aza-header-content .aza-cell {
-    width: 600px
+    width: 540px
   }
 
   .sectiontype-1 .aza-header .aza-cell-last {
@@ -225,14 +225,14 @@ color: #074082;;
   .sectiontype-2 .section-one-image-gallery .aza-section-content,
   .sectiontype-1 .section-one-image-gallery .aza-section-content {
     padding: 0;
-    width: 600px;
-    max-width: 600px;
+    width: 540px;
+    max-width: 540px;
   }
 
   .section-image-header .aza-section-content img,
   .sectiontype-2 .section-one-image-gallery .aza-section-content img,
   .sectiontype-1 .section-one-image-gallery .aza-section-content img {
-    width: 600px;
+    width: 540px;
   }
 
   .sectiontype-2 .section-one-image-gallery {
@@ -596,7 +596,7 @@ text-align: left;
     cursor: pointer;
   }
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 540px) {
     .section-text-two-column .aza-cell {
       max-width: 100% !important;
       margin-bottom: 15px !important;
